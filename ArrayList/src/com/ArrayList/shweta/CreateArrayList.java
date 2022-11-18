@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class CreateArrayList {
 
+	@author
 	public static void main(String[] args) {
 		ArrayList<Integer>al=new ArrayList<>();
 		al.add(10);
